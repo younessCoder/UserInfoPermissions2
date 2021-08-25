@@ -1,0 +1,115 @@
+[
+
+
+            {
+                "Name":"Bénéficiaires",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+
+                
+            }
+        ,
+            {
+                "Name":"Chapitre",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+                
+            }
+        ,
+            {
+                "Name":"Article",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+            }
+        ,
+            {
+                "Name":"Délégations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "Name":"Pojets",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":,
+                "Transferer":0,
+                "Telecharger":,
+                "Verrouiller":0
+                
+            }
+      ,
+            {
+                "Name":"Contrats ou
+",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":
+                
+            }
+        ,
+            {
+                "Name":"Conventions",
+                "Voir_tous_les_enreg":,
+                "Voir_mes_enreg":0,
+                "Consulter":,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+
+
+
+
+
+
+]
